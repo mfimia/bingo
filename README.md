@@ -16,4 +16,4 @@
 - Box checking not enforced
 - Large version hard to play
 
-[Link to deployment](https://mfimia.github.io/bingo/)
+[Link to deployment](https://probingo.netlify.app/)
